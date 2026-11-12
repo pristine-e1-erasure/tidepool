@@ -20,3 +20,5 @@
 	</div>
 	<p class="border-t border-sand-200 py-5 text-center text-xs text-ink-500">© 2026 Tidepool Tours</p>
 </footer>
+
+<!-- E1 erasure rehearsal: a small visible-code change so the staging review runs in full (REN-1654) -->
